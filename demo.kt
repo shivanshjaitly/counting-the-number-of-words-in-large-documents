@@ -1,5 +1,3 @@
-package org.cakesolutions.spark
-
 import org.apache.spark.SparkConf
 import org.apache.spark.api.java.JavaSparkContext
 import scala.Tuple2
